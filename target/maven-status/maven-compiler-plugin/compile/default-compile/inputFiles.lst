@@ -1,0 +1,6 @@
+/home/skouma/team16/t16/server/src/main/java/com/tco/misc/BadRequestException.java
+/home/skouma/team16/t16/server/src/main/java/com/tco/requests/ConfigRequest.java
+/home/skouma/team16/t16/server/src/main/java/com/tco/server/MicroServer.java
+/home/skouma/team16/t16/server/src/main/java/com/tco/server/WebApplication.java
+/home/skouma/team16/t16/server/src/main/java/com/tco/requests/Request.java
+/home/skouma/team16/t16/server/src/main/java/com/tco/misc/JSONValidator.java

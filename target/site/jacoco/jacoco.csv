@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+tco,com.tco.requests,ConfigRequest,0,37,0,0,0,11,0,4,0,4
+tco,com.tco.requests,Request,0,6,0,0,0,2,0,2,0,2
+tco,com.tco.server,WebApplication,26,74,2,8,7,15,3,7,2,3
+tco,com.tco.server,MicroServer,181,0,4,0,55,0,12,0,10,0
+tco,com.tco.misc,BadRequestException,3,0,0,0,1,0,1,0,1,0
+tco,com.tco.misc,JSONValidator,17,70,0,0,3,13,1,2,1,2
